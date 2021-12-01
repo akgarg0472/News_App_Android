@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/akgar/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/rounded_corner_rectangle.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/akgar/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
         <entry key="..\:/Users/akgar/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_news.xml" value="0.25" />
       </map>
